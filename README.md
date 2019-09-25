@@ -4,4 +4,4 @@ This project was developed in java. There are two classes that provide the basic
 
 A suite of unit tests has been developed to ensure each of the functions and conversions mentioned above behave as expected. 
 
-To ensure that the library is usable: First, I chose to perform the arithmetic utilizing float values. This is because it provides the most granular value of the desired types of data. Second, through the conversions class, I made it possible to convert from any type to float or from float to any type. This makes it possible to accept, calculate, and return any of the expected types of data.
+To ensure that the library is reusable: First, I chose to perform the arithmetic utilizing float values. This is because it provides the most granular value of the desired types of data. Second, through the conversions class, I made it possible to convert from any type to float or from float to any type. This makes it possible to accept, calculate, and return any of the expected types of data.
